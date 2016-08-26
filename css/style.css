@@ -1,0 +1,182 @@
+#cabezera{
+ background-color: #d24dff;
+ text-align: center;
+ padding-top: 70px;
+padding-right: 80px;
+padding-bottom: 50px;
+padding-left: 80px;
+color:#d24dff;
+
+}
+
+}
+#cabezera li a{
+	display:block;
+	width: 120px;
+}
+#body{
+    
+background-color: #1AE9D5;
+text-align: center;
+padding-top: 100px;
+padding-right: 80px;
+padding-bottom: 70px;
+padding-left: 80px;
+}
+#grupo
+{
+	background-color: #f3f5f7;
+	text-align: center;
+	padding-top: 100px;
+	padding-right: 80px;
+	padding-bottom: 70px;
+	padding-left: 80px;
+
+}
+#grupo h1,p 
+	{
+		color: black;
+	}
+#grupo h6{
+	color: #39f0f0;
+}
+
+#habilidades{
+	text-align: center;
+	padding-top: 100px;
+	padding-right: 80px;
+	padding-bottom: 70px;
+	padding-left: 80px;
+
+}
+#habilidades1
+{
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	letter-spacing: 1px;
+
+}
+#habilidades h1
+{
+	color: black;
+}
+
+
+#ghp {
+	color:black;
+}
+
+
+#portafolio
+{
+	background-color: #facd8b;
+	text-align: center;
+	padding-top: 120px;
+	padding-right: 80px;
+	padding-bottom: 90px;
+	padding-left: 80px;
+}
+#portafolio h1,p{
+	color: black;
+	text-align: center;
+}
+
+#comentarios
+{
+	background-color: #dc2e9a;
+	text-align: center;
+	padding-top: 120px;
+	padding-right: 80px;
+	padding-bottom: 90px;
+	padding-left: 80px;
+}
+
+#contactos
+{
+	background-color: #207cd3;
+	text-align: left; 
+	padding-top: 80px;
+	padding-right: 80px;
+	padding-bottom: 60px;
+	padding-left: 80px;
+
+
+}
+
+#cabezera h1,h6,p{
+	color: white;
+
+}
+
+#body h1,h6,p{
+	color: white;
+
+}
+
+#iconos{
+	width:25px;
+	height: auto;
+	padding: block;
+}
+#imgportafolio{
+	width:220px;
+	height: auto;
+}
+
+#comentarios1{
+	color: white;
+	padding-top: 20px;
+	padding-left: 20px;
+
+}
+#comentarios2{
+	color:orange;
+	padding-bottom: 30px;
+}
+
+#comentarios3{
+	text-align:left;
+}
+
+#contactos1{
+	color:white;
+	padding-top:100px;
+	padding-right:40px;
+	text-align: center; 
+
+
+}
+
+#contactos2{
+	color: white;
+	padding-top: 70px;
+
+}
+
+.imput{
+	background-color: blue;
+}
+#boton{
+	color:#F5DA81;
+}
+
+#footer{
+	background-color: #0040FF;
+	text-decoration: helvetica;
+	padding-top: 30px;
+	padding-right: 10px;
+	padding-bottom: 30px;
+	padding-left: 10px;
+	text-align: block;
+}
+#derechos{
+	background-color: white;
+	color:black;
+	
+}
+
+#derechos p{
+	color: black;
+}
+
